@@ -11,6 +11,9 @@ local.properties
 .loadpath
 .recommenders
 
+# drivers
+Drivers/
+
 # External tool builders
 .externalToolBuilders/
 
